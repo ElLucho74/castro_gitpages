@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/castro_gitpages/build/static/css/main.f855e6bc.css",
-    "main.js": "/castro_gitpages/build/static/js/main.c098a63f.js",
-    "static/js/453.4a63d6e2.chunk.js": "/castro_gitpages/build/static/js/453.4a63d6e2.chunk.js",
-    "static/media/logo.svg": "/castro_gitpages/build/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/castro_gitpages/build/index.html",
-    "main.f855e6bc.css.map": "/castro_gitpages/build/static/css/main.f855e6bc.css.map",
-    "main.c098a63f.js.map": "/castro_gitpages/build/static/js/main.c098a63f.js.map",
-    "453.4a63d6e2.chunk.js.map": "/castro_gitpages/build/static/js/453.4a63d6e2.chunk.js.map"
+    "main.css": "/castro_gitpages/static/css/main.f855e6bc.css",
+    "main.js": "/castro_gitpages/static/js/main.ae6c793a.js",
+    "static/js/453.4a63d6e2.chunk.js": "/castro_gitpages/static/js/453.4a63d6e2.chunk.js",
+    "static/media/logo.svg": "/castro_gitpages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/castro_gitpages/index.html",
+    "main.f855e6bc.css.map": "/castro_gitpages/static/css/main.f855e6bc.css.map",
+    "main.ae6c793a.js.map": "/castro_gitpages/static/js/main.ae6c793a.js.map",
+    "453.4a63d6e2.chunk.js.map": "/castro_gitpages/static/js/453.4a63d6e2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.c098a63f.js"
+    "static/js/main.ae6c793a.js"
   ]
 }
